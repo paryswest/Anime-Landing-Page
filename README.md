@@ -5,7 +5,7 @@ Split Screened "versus" design with interactive hover, interactive overlay, and 
 **Link to project:** Coming Soon
 
 <div align="center" >  
-<img src="https://github.com/paryswest/Anime-Landing-Page/blob/b52117f1812c5161b800e8ec44ad84626fc993ed/Animelanding.gif" alt="JotaroShogo" height="700px" width="100%" />
+<img src="https://github.com/paryswest/Anime-Landing-Page/blob/b52117f1812c5161b800e8ec44ad84626fc993ed/Animelanding.gif" alt="JotaroShogo" height="500px" width="100%" />
 </div>  
 
 ## How It's Made:
